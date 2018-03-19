@@ -6,7 +6,7 @@ export const Home = props => {
       <div className='row'>
         <div className='col s2'></div>
         <div className='col s8'>
-          <h1>Apocalyprep Home</h1>
+          <h1 className='center-align'>Apocalyprep Home</h1>
         </div>
         <div className='col s2'></div>
       </div>
